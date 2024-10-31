@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.calculadora.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.calculadora.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dedce\\.gradle\\daemon\\8.7\\com.example.calculadora.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dedce\\.gradle\\daemon\\8.7\\com.example.calculadora.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dedce\\.gradle\\daemon\\8.7\\com.example.calculadora.app-mergeDebugResources-31:\\layout\\butttons_layout.xml",
+        "source": "C:\\Users\\dedce\\.gradle\\daemon\\8.7\\com.example.calculadora.app-main-34:\\layout\\butttons_layout.xml"
+    }
+]
